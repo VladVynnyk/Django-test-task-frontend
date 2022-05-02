@@ -1,0 +1,27 @@
+.input{
+    width: 20%;
+    height: 30px;
+    font-size:18px;
+    margin-bottom: 15px;
+}
+.container{
+    position:relative;
+    right: 87px;
+    margin-top: 20px;
+}
+.checkmark{
+    font-size:20px;
+}
+
+.button{
+    background-color: transparent;
+    width:100px;
+    height:35px;
+    position:relative;
+    top:10px;
+    border:1px #20a15b solid;
+    transition: .4s;
+}
+.button:hover{
+    background-color: #20a15b;
+}
